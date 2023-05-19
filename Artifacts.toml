@@ -1,0 +1,104 @@
+[[fastp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b42bd0f8e0f57599c9a3818068819f6e7effac93"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "94805b23c427209710f503350dee5c6adcf5d6338cc64aee64bcbe9ec84b48af"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[fastp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d58585d9331c22fc8f824912fcb410a5602f70c4"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "65577e4f4e098349518d1e60cf8806a132f2166ce5b075f9c4a6c7fb68e77676"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[fastp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "76a08dfa64563f1acd8c1289ee851b1d0ccf7e39"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "62119bfd6fa2d683d91f8a40163ce40ac497fe1c1903e20c3737240f662ebc83"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[fastp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f96c5db42dbea9ccc35415d8e1c17318e59735c"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "a733f508ff6d5f5f8d66ef3f20d502da4ab8137e8d6aaedbe4a1987a23828c55"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[fastp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "707df543aa0a063ba560c63d8a5cc6b46f08166f"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "e5548bf907502e1ad873436624e987e522b04bdc2de4169b577f5e592c5591b0"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[fastp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f7fba64167fc448a34d8c775ebe6fa41340dd05c"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "af09abbe8aa9e83f1c6cddb4c8bbbef724d3ff8153aba0ff2c7b43da85d22e5e"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[fastp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d37b5b508d458c40500df812a448da9964d6e319"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "1f67ba6757410e802f60ea4c3fc153ec3ce92cc353da2bf5fb3ac1c95096d8cd"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[fastp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90760a8a8969c0ca5d87876dfc54cbe0f51c25cc"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "78814647fe1a75200372fd1fd412cbe7ef7826413f195d2773951964b230987d"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[fastp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f7ce4c8d5b52f05ebe874a81581cd079e6c7c95"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "3ce00cdad78c49b3d15be6e45e44e38a1ca5dd2d18559adedf53c06aea4f0bc4"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-linux-musl-cxx03.tar.gz"
+[[fastp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a008ba0ee9506ac79a4d906aa51f76042dcbbfa"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "fb388170fd4782e28fdb9b1ab0a514c352503fa9a4a6f9d4d23da46cd67a0e31"
+    url = "https://github.com/maltesie/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-linux-musl-cxx11.tar.gz"
